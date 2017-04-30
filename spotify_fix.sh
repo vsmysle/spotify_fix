@@ -11,7 +11,8 @@ echo "Done!"
 
 echo "[+] Installing libcurl-openssl-1.0:"
 yaourt -S libcurl-openssl-1.0
+echo "Done!"
 
 echo "[+] Reinstalling spotify:"
 yaourt -S spotify
-echo "Done! Spotify is now working!" 
+echo "Done! Spotify is now working!"
